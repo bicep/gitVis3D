@@ -1,4 +1,7 @@
-# GitVis3D
+# GitVis3D for Bitcoin (M. Arch I application project)
+
+**NOTE: GitVis3D is the brainchild of GitHub user [kofujimura](https://github.com/kofujimura). I debugged and added extra functionality to the code in the [original repository](https://github.com/kofujimura/gitVis3D), and added a Bitcoin option here for my architecture school application.**
+
 GitVis3D is a visualization tool for git communities. This tool visualizes a versioning graph 
 that consists of contribution edges and update edges as 3D animation in which new nodes and edges 
 are added to the scene over time. 
@@ -18,12 +21,9 @@ https://www.youtube.com/watch?v=67s8WCEjIx8
 Long:
 https://www.youtube.com/watch?v=xe1bV_o2aBc
 
-## Live demo
-http://qa.fujimura.com:8080/gitVis3D.html
-
 ## How to install
 
-1. Install [Neo4j](https://developer.github.com/)
+1. Install [Neo4j](https://neo4j.com/)
 
    set password to access Neo4j via http://localhost:7474.
 
